@@ -1,4 +1,4 @@
-# BlogCommentsPrediction
+# Blog Comments Prediction
 
 Below are the details for the attached files:
 * refreshtoken.py: utility file used to get the refresh token necessary to continually interact with the Reddit API.
