@@ -1,6 +1,7 @@
 # Blog Comments Prediction
 
 Below are the details for the attached files:
+* **blog_test_data.ipynb**: original modeling file used to build models based on original data.
 * **refreshtoken.py**: utility file used to get the refresh token necessary to continually interact with the Reddit API.
 * **BlogScraping.ipynb**: scrapes reddit using the PRAW API to create all the necessary features.
 * **bagofWords_Reddit.ipynb**: used to created the 200 bag of word features necessary for the model.
