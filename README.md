@@ -7,3 +7,5 @@ Below are the details for the attached files:
 * RedditModleing.ipynb: data file used to run base models against Reddit models.
 * RedditData.csv: data file imported into the bagofWords_Reddit file with all the basic statistical features.
 * reddit-final.csv: data file imported into the RedditModeling file to do the final modeling.
+
+Data set used to build the original models can be found at: https://archive.ics.uci.edu/ml/datasets/BlogFeedback
